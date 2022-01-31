@@ -1,0 +1,5 @@
+a = int(input("enter an integer : "))
+n = int( "%d"% a )
+nn= int( "%d%d"% (a,a) )
+nnn= int( "%d%d%d" %(a,a,a) )
+print (n+nn+nnn)

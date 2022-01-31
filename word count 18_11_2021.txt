@@ -1,0 +1,3 @@
+a = "a friend in need's a friend indeed"
+b = a.count("friend")
+print(b)

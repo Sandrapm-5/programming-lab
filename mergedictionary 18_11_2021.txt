@@ -1,0 +1,4 @@
+d1={'a':'apple','b':'mango'}
+d2={'c':'kiwi', 'd':'cherry'}
+print("after merge")
+print(dict(d1, **d2))
